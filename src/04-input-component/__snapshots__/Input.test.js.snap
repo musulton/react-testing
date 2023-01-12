@@ -1,0 +1,15 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Input component should update h3 when user input text 1`] = `
+<DocumentFragment>
+  <h3
+    data-testid="input-label"
+  >
+    John
+  </h3>
+  <input
+    data-testid="input-username"
+    value="John"
+  />
+</DocumentFragment>
+`;

@@ -1,0 +1,12 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`SayHello component should display say hello component correctly 1`] = `
+<DocumentFragment>
+  <h1>
+    Hello John!
+  </h1>
+  <p>
+    Hellooooooo
+  </p>
+</DocumentFragment>
+`;
